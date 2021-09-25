@@ -3,6 +3,8 @@
 ## About me
 **Senior** at *UCSD* studying ***Computer Engineering***
 
+I have 2 dogs back home, here is a [section link](https://github.com/LJMNZS/Pages-Project/blob/Markdown/index.md#other-interesting-things) to see a picture of them 
+
 Task Lists: Classes I am taking this quarter
 - [ ] CSE 110
 - [ ] CSE 130
@@ -12,10 +14,13 @@ Task Lists: Classes I am taking this quarter
 Ordered list: Classes I have left to graduate
 1. CSE 120
 2. CSE 141L
-3. CSE 
+3. CSE/ECE Elective 1
+4. CSE/ECE Elective 2
+5. CSE/ECE Elective 3
+6. CSE/ECE Elective 4
 
 ## About me as a programmer
-Unordered list of some programming languages I know
+Unordered list of some programming languages I know with code snippets
 - Java
   ```
   public class HelloWorld
@@ -50,10 +55,11 @@ Unordered list of some programming languages I know
 
 ## Other interesting things
 External links: This site was built using [GitHub pages](https://pages.github.com/).
-Here is a link to the [README](./README.md) of this repo
+
+Relative link: Here is a link to the [README](./README.md) of this repo
 
 I didn't really have a good picture of myself so here is a picture of my dogs:
-![image](https:/myoctocat.com/assets/images/base-octocat.svg)
+![image](./dogs.jpg)
 
 
 Some stuff to include:
