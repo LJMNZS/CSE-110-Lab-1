@@ -3,9 +3,9 @@
 ## About me
 **Senior** at *UCSD* studying ***Computer Engineering***
 
-I have 2 dogs back home, here is a [section link](https://github.com/LJMNZS/Pages-Project/blob/Markdown/index.md#other-interesting-things) to see a picture of them 
+**I have _2 dogs back home_, here is a [section link](https://github.com/LJMNZS/Pages-Project/blob/Markdown/index.md#other-interesting-things) to see a picture of them**
 
-Task Lists: Classes I am taking this quarter
+Task Lists: Classes I am ~~hopefully~~ completing this quarter
 - [ ] CSE 110
 - [ ] CSE 130
 - [ ] CSE 158
@@ -61,13 +61,5 @@ Relative link: Here is a link to the [README](./README.md) of this repo
 I didn't really have a good picture of myself so here is a picture of my dogs:
 ![image](./dogs.jpg)
 
-
-Some stuff to include:
-
-*Example Quote text:*
-> This is the quote
-
-Quoting text: Not sure
-
-
-Section links: not sure how this works
+Finally, a programming quote by anonymous:
+> The best thing about boolean is that even if you are wrong, you are only off by a bit
